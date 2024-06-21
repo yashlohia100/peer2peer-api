@@ -1,0 +1,21 @@
+{
+  "name": "peer2peer-api",
+  "version": "1.0.0",
+  "main": "server.mjs",
+  "scripts": {
+    "dev": "nodemon --env-file=.env server.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.3",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.5.0",
+    "eslint": "^9.5.0",
+    "globals": "^15.6.0"
+  }
+}
