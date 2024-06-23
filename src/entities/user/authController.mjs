@@ -83,3 +83,21 @@ export const protect = catchAsync(async (req, res, next) => {
   req.user = currentUser;
   next();
 });
+
+export const logout = (req, res) => {
+  const cookieOptions = {
+    maxAge: -60 * 1000,
+    httpOnly: true,
+  };
+
+  if (process.env.NODE_ENV === 'production') {
+    cookieOptions.sameSite = 'none';
+    cookieOptions.secure = true;
+  }
+
+  res.cookie('jwt', 'loggedout', cookieOptions);
+
+  res.status(200).json({
+    status: 'success',
+  });
+};
