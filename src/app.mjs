@@ -1,6 +1,8 @@
 import express from 'express';
 import morgan from 'morgan';
 import listingRouter from './entities/listing/listingRoutes.mjs';
+import AppError from './utils/AppError.mjs';
+import globalErrorHandler from './utils/globalErrorHandler.mjs';
 
 const app = express();
 
@@ -14,5 +16,11 @@ app.get('/', (req, res) => {
 });
 
 app.use('/api/listings', listingRouter);
+
+app.all('*', (req, res, next) => {
+  next(new AppError(`Could not find ${req.originalUrl} on this server`, 404));
+});
+
+app.use(globalErrorHandler);
 
 export default app;
