@@ -58,3 +58,28 @@ export const login = catchAsync(async (req, res, next) => {
 
   await createSendToken(res, user, 200);
 });
+
+export const protect = catchAsync(async (req, res, next) => {
+  // Extract the token
+  const token = req.cookies.jwt;
+  if (!token) {
+    return next(new AppError('You are not logged in.', 401));
+  }
+
+  // Verify the token
+  const jwtVerifyAsync = promisify(jwt.verify);
+  const decoded = await jwtVerifyAsync(token, process.env.JWT_SECRET);
+
+  // Check if user still exists
+  const currentUser = await User.findById(decoded.id);
+  if (!currentUser) {
+    return next(
+      new AppError('The user belonging to this token no longer exists.', 401)
+    );
+  }
+
+  // Grant access to protected route
+  console.log('Authenticated:', { id: currentUser.id, name: currentUser.name });
+  req.user = currentUser;
+  next();
+});

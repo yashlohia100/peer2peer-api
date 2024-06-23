@@ -4,11 +4,13 @@ import listingRouter from './entities/listing/listingRoutes.mjs';
 import AppError from './utils/AppError.mjs';
 import globalErrorHandler from './utils/globalErrorHandler.mjs';
 import userRouter from './entities/user/userRoutes.mjs';
+import cookieParser from 'cookie-parser';
 
 const app = express();
 
 app.use(morgan('dev'));
 app.use(express.json());
+app.use(cookieParser());
 
 app.get('/', (req, res) => {
   res.status(200).json({
