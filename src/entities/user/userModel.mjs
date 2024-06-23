@@ -1,3 +1,4 @@
+import bcrypt from 'bcryptjs';
 import { Schema, model } from 'mongoose';
 
 const userSchema = new Schema({
@@ -15,6 +16,7 @@ const userSchema = new Schema({
     type: String,
     required: true,
     minLength: 8,
+    select: false,
   },
   passwordConfirm: {
     type: String,
@@ -27,6 +29,14 @@ const userSchema = new Schema({
       message: 'Passwords do not match!',
     },
   },
+});
+
+userSchema.pre('save', async function (next) {
+  if (this.isModified('password')) {
+    this.password = await bcrypt.hash(this.password, 12);
+    this.passwordConfirm = undefined;
+  }
+  next();
 });
 
 const User = model('User', userSchema);
