@@ -8,6 +8,10 @@ import {
 } from './listingValidators.mjs';
 
 const listingSchema = new Schema({
+  user: {
+    type: Schema.Types.ObjectId,
+    ref: 'User',
+  },
   location: {
     type: String,
     required: true,
