@@ -29,6 +29,15 @@ const userSchema = new Schema({
       message: 'Passwords do not match!',
     },
   },
+  gender: {
+    type: String,
+    required: true,
+    enum: ['male', 'female'],
+  },
+  photo: {
+    type: String,
+    default: 'default-user.jpg',
+  },
 });
 
 // Pre save middleware
