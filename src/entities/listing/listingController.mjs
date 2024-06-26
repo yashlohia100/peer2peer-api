@@ -1,9 +1,16 @@
+import ApiFeatures from '../../utils/ApiFeatures.mjs';
 import AppError from '../../utils/AppError.mjs';
 import catchAsync from '../../utils/catchAsync.mjs';
 import Listing from './listingModel.mjs';
 
 export const getAllListings = catchAsync(async (req, res, next) => {
-  const listings = await Listing.find();
+  const features = new ApiFeatures(Listing.find(), req.query)
+    .filter()
+    .sort()
+    .select()
+    .paginate();
+
+  const listings = await features.query;
 
   res.status(200).json({
     status: 'success',
