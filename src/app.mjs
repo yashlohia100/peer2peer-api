@@ -1,5 +1,6 @@
 import express from 'express';
 import morgan from 'morgan';
+import cors from 'cors';
 import listingRouter from './entities/listing/listingRoutes.mjs';
 import AppError from './utils/AppError.mjs';
 import globalErrorHandler from './utils/globalErrorHandler.mjs';
@@ -11,6 +12,7 @@ const app = express();
 app.use(morgan('dev'));
 app.use(express.json());
 app.use(cookieParser());
+app.use(cors({ origin: process.env.FRONTEND_URL, credentials: true }));
 
 app.get('/', (req, res) => {
   res.status(200).json({
