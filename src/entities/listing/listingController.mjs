@@ -10,7 +10,7 @@ export const getAllListings = catchAsync(async (req, res, next) => {
     .select()
     .paginate();
 
-  const listings = await features.query;
+  const listings = await features.query.populate('user');
 
   res.status(200).json({
     status: 'success',
@@ -29,7 +29,7 @@ export const createListing = catchAsync(async (req, res, next) => {
 });
 
 export const getListing = catchAsync(async (req, res, next) => {
-  const listing = await Listing.findById(req.params.id);
+  const listing = await Listing.findById(req.params.id).populate('user');
 
   if (!listing) {
     return next(new AppError('No listing found with that id.', 404));
