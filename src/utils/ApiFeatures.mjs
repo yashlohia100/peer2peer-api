@@ -23,7 +23,7 @@ class ApiFeatures {
       const sortBy = this.queryObj.sort.replaceAll(',', ' ');
       this.query = this.query.sort(sortBy);
     } else {
-      this.query = this.query.sort('city');
+      this.query = this.query.sort('_id');
     }
 
     return this;
