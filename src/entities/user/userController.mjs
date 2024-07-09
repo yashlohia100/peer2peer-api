@@ -10,3 +10,11 @@ export const getAllUsers = catchAsync(async (req, res, next) => {
     users,
   });
 });
+
+export const getCurrentlyLoggedInUser = (req, res) => {
+  // Protect middleware places user in req.user
+  res.status(200).json({
+    status: 'success',
+    user: req.user,
+  });
+};
