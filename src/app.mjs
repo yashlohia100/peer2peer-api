@@ -22,6 +22,15 @@ app.get('/', (req, res) => {
   });
 });
 
+app.get('/check-cookie', (req, res) => {
+  console.log(req.cookies);
+  res.cookie('send', 'cookie-from-server');
+  res.status(200).json({
+    status: 'success',
+    cookies: req.cookies,
+  });
+});
+
 app.use('/api/listings', listingRouter);
 app.use('/api/users', userRouter);
 
