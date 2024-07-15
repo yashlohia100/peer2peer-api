@@ -56,3 +56,16 @@ export const updateListing = catchAsync(async (req, res, next) => {
     listing,
   });
 });
+
+export const deleteListing = catchAsync(async (req, res, next) => {
+  const listing = await Listing.findByIdAndDelete(req.params.id);
+
+  if (!listing) {
+    return next(new AppError('No listing found with that id.', 404));
+  }
+
+  res.status(200).json({
+    status: 'success',
+    listing,
+  });
+});
