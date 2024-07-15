@@ -19,6 +19,13 @@ export const getAllListings = catchAsync(async (req, res, next) => {
   });
 });
 
+export const addUserToBody = (req, res, next) => {
+  if (!req.body.user) {
+    req.body.user = req.user.id;
+  }
+  next();
+};
+
 export const createListing = catchAsync(async (req, res, next) => {
   const listing = await Listing.create(req.body);
 
