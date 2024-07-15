@@ -40,3 +40,19 @@ export const getListing = catchAsync(async (req, res, next) => {
     listing,
   });
 });
+
+export const updateListing = catchAsync(async (req, res, next) => {
+  const listing = await Listing.findByIdAndUpdate(req.params.id, req.body, {
+    new: true,
+    runValidators: true,
+  });
+
+  if (!listing) {
+    return next(new AppError('No listing found with that id.', 404));
+  }
+
+  res.status(200).json({
+    status: 'success',
+    listing,
+  });
+});
