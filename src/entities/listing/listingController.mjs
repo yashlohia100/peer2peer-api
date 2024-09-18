@@ -19,6 +19,7 @@ export const getAllListings = catchAsync(async (req, res, next) => {
   });
 });
 
+// Middleware
 export const addUserToBody = (req, res, next) => {
   if (!req.body.user) {
     req.body.user = req.user.id;

@@ -23,6 +23,7 @@ app.get('/', (req, res) => {
 });
 
 app.get('/check-cookie', (req, res) => {
+  // Send cookie in headers or make request two times
   console.log(req.cookies);
   res.cookie('send', 'cookie-from-server');
   res.status(200).json({
