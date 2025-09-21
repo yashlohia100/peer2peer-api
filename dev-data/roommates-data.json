@@ -1,0 +1,722 @@
+[
+  {
+    "_id": "667994ff0aa756e3fccea025",
+    "user": "667994ff0aa756e3fcceb025",
+    "listingType": "roommate",
+    "city": "ghaziabad",
+    "location": "Govindpuram, Ghaziabad",
+    "lookingFor": "male",
+    "occupancy": "dual",
+    "rent": 9000,
+    "preferences": [
+      "early bird",
+      "fitness freak",
+      "sporty",
+      "wanderer",
+      "party lover",
+      "vegan",
+      "non alcoholic",
+      "music lover",
+      "non smoker"
+    ],
+    "highlights": [
+      "working full time",
+      "working night shifts",
+      "age greater than 25",
+      "have 2 wheeler",
+      "have 4 wheeler",
+      "vegetarian"
+    ],
+    "description": "I am looking for a room with roommate."
+  },
+  {
+    "_id": "667994ff0aa756e3fccea026",
+    "user": "667994ff0aa756e3fcceb026",
+    "listingType": "roommate",
+    "city": "ghaziabad",
+    "location": "Govindpuram, Ghaziabad",
+    "lookingFor": "female",
+    "occupancy": "dual",
+    "rent": 9000,
+    "preferences": [
+      "early bird",
+      "fitness freak",
+      "sporty",
+      "wanderer",
+      "party lover",
+      "vegan",
+      "non alcoholic",
+      "music lover",
+      "non smoker"
+    ],
+    "highlights": [
+      "working full time",
+      "working night shifts",
+      "age greater than 25",
+      "have 2 wheeler",
+      "have 4 wheeler",
+      "vegetarian"
+    ],
+    "description": "I am looking for a room with roommate."
+  },
+  {
+    "_id": "667994ff0aa756e3fccea027",
+    "user": "667994ff0aa756e3fcceb027",
+    "listingType": "roommate",
+    "city": "ghaziabad",
+    "location": "Govindpuram, Ghaziabad",
+    "lookingFor": "male",
+    "occupancy": "dual",
+    "rent": 6000,
+    "preferences": [
+      "night owl",
+      "studious",
+      "fitness freak",
+      "sporty",
+      "wanderer",
+      "party lover",
+      "vegan",
+      "non alcoholic",
+      "music lover",
+      "non smoker"
+    ],
+    "highlights": [
+      "college student",
+      "age less than 25",
+      "have 2 wheeler",
+      "vegetarian",
+      "need no furnishing"
+    ],
+    "description": "I am looking for a room with roommate."
+  },
+  {
+    "_id": "667994ff0aa756e3fccea028",
+    "user": "667994ff0aa756e3fcceb028",
+    "listingType": "roommate",
+    "city": "ghaziabad",
+    "location": "Govindpuram, Ghaziabad",
+    "lookingFor": "female",
+    "occupancy": "dual",
+    "rent": 6000,
+    "preferences": [
+      "night owl",
+      "studious",
+      "fitness freak",
+      "sporty",
+      "wanderer",
+      "party lover",
+      "vegan",
+      "non alcoholic",
+      "music lover",
+      "non smoker"
+    ],
+    "highlights": [
+      "college student",
+      "age less than 25",
+      "have 2 wheeler",
+      "vegetarian",
+      "need no furnishing"
+    ],
+    "description": "I am looking for a room with roommate."
+  },
+  {
+    "_id": "667994ff0aa756e3fccea029",
+    "user": "667994ff0aa756e3fcceb029",
+    "listingType": "roommate",
+    "city": "ghaziabad",
+    "location": "Crossing Republik, Ghaziabad",
+    "lookingFor": "male",
+    "occupancy": "dual",
+    "rent": 9000,
+    "preferences": [
+      "early bird",
+      "fitness freak",
+      "sporty",
+      "wanderer",
+      "party lover",
+      "vegan",
+      "non alcoholic",
+      "music lover",
+      "non smoker"
+    ],
+    "highlights": [
+      "working full time",
+      "working night shifts",
+      "age greater than 25",
+      "have 2 wheeler",
+      "have 4 wheeler",
+      "vegetarian"
+    ],
+    "description": "I am looking for a room with roommate."
+  },
+  {
+    "_id": "667994ff0aa756e3fccea030",
+    "user": "667994ff0aa756e3fcceb030",
+    "listingType": "roommate",
+    "city": "ghaziabad",
+    "location": "Crossing Republik, Ghaziabad",
+    "lookingFor": "female",
+    "occupancy": "dual",
+    "rent": 9000,
+    "preferences": [
+      "early bird",
+      "fitness freak",
+      "sporty",
+      "wanderer",
+      "party lover",
+      "vegan",
+      "non alcoholic",
+      "music lover",
+      "non smoker"
+    ],
+    "highlights": [
+      "working full time",
+      "working night shifts",
+      "age greater than 25",
+      "have 2 wheeler",
+      "have 4 wheeler",
+      "vegetarian"
+    ],
+    "description": "I am looking for a room with roommate."
+  },
+  {
+    "_id": "667994ff0aa756e3fccea031",
+    "user": "667994ff0aa756e3fcceb031",
+    "listingType": "roommate",
+    "city": "ghaziabad",
+    "location": "Crossing Republik, Ghaziabad",
+    "lookingFor": "male",
+    "occupancy": "dual",
+    "rent": 6000,
+    "preferences": [
+      "night owl",
+      "studious",
+      "fitness freak",
+      "sporty",
+      "wanderer",
+      "party lover",
+      "vegan",
+      "non alcoholic",
+      "music lover",
+      "non smoker"
+    ],
+    "highlights": [
+      "college student",
+      "age less than 25",
+      "have 2 wheeler",
+      "vegetarian",
+      "need no furnishing"
+    ],
+    "description": "I am looking for a room with roommate."
+  },
+  {
+    "_id": "667994ff0aa756e3fccea032",
+    "user": "667994ff0aa756e3fcceb032",
+    "listingType": "roommate",
+    "city": "ghaziabad",
+    "location": "Crossing Republik, Ghaziabad",
+    "lookingFor": "female",
+    "occupancy": "dual",
+    "rent": 6000,
+    "preferences": [
+      "night owl",
+      "studious",
+      "fitness freak",
+      "sporty",
+      "wanderer",
+      "party lover",
+      "vegan",
+      "non alcoholic",
+      "music lover",
+      "non smoker"
+    ],
+    "highlights": [
+      "college student",
+      "age less than 25",
+      "have 2 wheeler",
+      "vegetarian",
+      "need no furnishing"
+    ],
+    "description": "I am looking for a room with roommate."
+  },
+  {
+    "_id": "667994ff0aa756e3fccea033",
+    "user": "667994ff0aa756e3fcceb033",
+    "listingType": "roommate",
+    "city": "ghaziabad",
+    "location": "Mahagunpuram, Ghaziabad",
+    "lookingFor": "male",
+    "occupancy": "dual",
+    "rent": 9000,
+    "preferences": [
+      "early bird",
+      "fitness freak",
+      "sporty",
+      "wanderer",
+      "party lover",
+      "vegan",
+      "non alcoholic",
+      "music lover",
+      "non smoker"
+    ],
+    "highlights": [
+      "working full time",
+      "working night shifts",
+      "age greater than 25",
+      "have 2 wheeler",
+      "have 4 wheeler",
+      "vegetarian"
+    ],
+    "description": "I am looking for a room with roommate."
+  },
+  {
+    "_id": "667994ff0aa756e3fccea034",
+    "user": "667994ff0aa756e3fcceb034",
+    "listingType": "roommate",
+    "city": "ghaziabad",
+    "location": "Mahagunpuram, Ghaziabad",
+    "lookingFor": "female",
+    "occupancy": "dual",
+    "rent": 9000,
+    "preferences": [
+      "early bird",
+      "fitness freak",
+      "sporty",
+      "wanderer",
+      "party lover",
+      "vegan",
+      "non alcoholic",
+      "music lover",
+      "non smoker"
+    ],
+    "highlights": [
+      "working full time",
+      "working night shifts",
+      "age greater than 25",
+      "have 2 wheeler",
+      "have 4 wheeler",
+      "vegetarian"
+    ],
+    "description": "I am looking for a room with roommate."
+  },
+  {
+    "_id": "667994ff0aa756e3fccea035",
+    "user": "667994ff0aa756e3fcceb035",
+    "listingType": "roommate",
+    "city": "ghaziabad",
+    "location": "Mahagunpuram, Ghaziabad",
+    "lookingFor": "male",
+    "occupancy": "dual",
+    "rent": 6000,
+    "preferences": [
+      "night owl",
+      "studious",
+      "fitness freak",
+      "sporty",
+      "wanderer",
+      "party lover",
+      "vegan",
+      "non alcoholic",
+      "music lover",
+      "non smoker"
+    ],
+    "highlights": [
+      "college student",
+      "age less than 25",
+      "have 2 wheeler",
+      "vegetarian",
+      "need no furnishing"
+    ],
+    "description": "I am looking for a room with roommate."
+  },
+  {
+    "_id": "667994ff0aa756e3fccea036",
+    "user": "667994ff0aa756e3fcceb036",
+    "listingType": "roommate",
+    "city": "ghaziabad",
+    "location": "Mahagunpuram, Ghaziabad",
+    "lookingFor": "female",
+    "occupancy": "dual",
+    "rent": 6000,
+    "preferences": [
+      "night owl",
+      "studious",
+      "fitness freak",
+      "sporty",
+      "wanderer",
+      "party lover",
+      "vegan",
+      "non alcoholic",
+      "music lover",
+      "non smoker"
+    ],
+    "highlights": [
+      "college student",
+      "age less than 25",
+      "have 2 wheeler",
+      "vegetarian",
+      "need no furnishing"
+    ],
+    "description": "I am looking for a room with roommate."
+  },
+  {
+    "_id": "667994ff0aa756e3fccea037",
+    "user": "667994ff0aa756e3fcceb037",
+    "listingType": "roommate",
+    "city": "ghaziabad",
+    "location": "Indirapuram, Ghaziabad",
+    "lookingFor": "male",
+    "occupancy": "dual",
+    "rent": 9000,
+    "preferences": [
+      "early bird",
+      "fitness freak",
+      "sporty",
+      "wanderer",
+      "party lover",
+      "vegan",
+      "non alcoholic",
+      "music lover",
+      "non smoker"
+    ],
+    "highlights": [
+      "working full time",
+      "working night shifts",
+      "age greater than 25",
+      "have 2 wheeler",
+      "have 4 wheeler",
+      "vegetarian"
+    ],
+    "description": "I am looking for a room with roommate."
+  },
+  {
+    "_id": "667994ff0aa756e3fccea038",
+    "user": "667994ff0aa756e3fcceb038",
+    "listingType": "roommate",
+    "city": "ghaziabad",
+    "location": "Indirapuram, Ghaziabad",
+    "lookingFor": "female",
+    "occupancy": "dual",
+    "rent": 9000,
+    "preferences": [
+      "early bird",
+      "fitness freak",
+      "sporty",
+      "wanderer",
+      "party lover",
+      "vegan",
+      "non alcoholic",
+      "music lover",
+      "non smoker"
+    ],
+    "highlights": [
+      "working full time",
+      "working night shifts",
+      "age greater than 25",
+      "have 2 wheeler",
+      "have 4 wheeler",
+      "vegetarian"
+    ],
+    "description": "I am looking for a room with roommate."
+  },
+  {
+    "_id": "667994ff0aa756e3fccea039",
+    "user": "667994ff0aa756e3fcceb039",
+    "listingType": "roommate",
+    "city": "ghaziabad",
+    "location": "Indirapuram, Ghaziabad",
+    "lookingFor": "male",
+    "occupancy": "dual",
+    "rent": 6000,
+    "preferences": [
+      "night owl",
+      "studious",
+      "fitness freak",
+      "sporty",
+      "wanderer",
+      "party lover",
+      "vegan",
+      "non alcoholic",
+      "music lover",
+      "non smoker"
+    ],
+    "highlights": [
+      "college student",
+      "age less than 25",
+      "have 2 wheeler",
+      "vegetarian",
+      "need no furnishing"
+    ],
+    "description": "I am looking for a room with roommate."
+  },
+  {
+    "_id": "667994ff0aa756e3fccea040",
+    "user": "667994ff0aa756e3fcceb040",
+    "listingType": "roommate",
+    "city": "ghaziabad",
+    "location": "Indirapuram, Ghaziabad",
+    "lookingFor": "female",
+    "occupancy": "dual",
+    "rent": 6000,
+    "preferences": [
+      "night owl",
+      "studious",
+      "fitness freak",
+      "sporty",
+      "wanderer",
+      "party lover",
+      "vegan",
+      "non alcoholic",
+      "music lover",
+      "non smoker"
+    ],
+    "highlights": [
+      "college student",
+      "age less than 25",
+      "have 2 wheeler",
+      "vegetarian",
+      "need no furnishing"
+    ],
+    "description": "I am looking for a room with roommate."
+  },
+  {
+    "_id": "667994ff0aa756e3fccea041",
+    "user": "667994ff0aa756e3fcceb041",
+    "listingType": "roommate",
+    "city": "delhi",
+    "location": "Rohini, Delhi",
+    "lookingFor": "male",
+    "occupancy": "dual",
+    "rent": 9000,
+    "preferences": [
+      "early bird",
+      "fitness freak",
+      "sporty",
+      "wanderer",
+      "party lover",
+      "vegan",
+      "non alcoholic",
+      "music lover",
+      "non smoker"
+    ],
+    "highlights": [
+      "working full time",
+      "working night shifts",
+      "age greater than 25",
+      "have 2 wheeler",
+      "have 4 wheeler",
+      "vegetarian"
+    ],
+    "description": "I am looking for a room with roommate."
+  },
+  {
+    "_id": "667994ff0aa756e3fccea042",
+    "user": "667994ff0aa756e3fcceb042",
+    "listingType": "roommate",
+    "city": "delhi",
+    "location": "Rohini, Delhi",
+    "lookingFor": "female",
+    "occupancy": "dual",
+    "rent": 9000,
+    "preferences": [
+      "early bird",
+      "fitness freak",
+      "sporty",
+      "wanderer",
+      "party lover",
+      "vegan",
+      "non alcoholic",
+      "music lover",
+      "non smoker"
+    ],
+    "highlights": [
+      "working full time",
+      "working night shifts",
+      "age greater than 25",
+      "have 2 wheeler",
+      "have 4 wheeler",
+      "vegetarian"
+    ],
+    "description": "I am looking for a room with roommate."
+  },
+  {
+    "_id": "667994ff0aa756e3fccea043",
+    "user": "667994ff0aa756e3fcceb043",
+    "listingType": "roommate",
+    "city": "delhi",
+    "location": "Rohini, Delhi",
+    "lookingFor": "male",
+    "occupancy": "dual",
+    "rent": 6000,
+    "preferences": [
+      "night owl",
+      "studious",
+      "fitness freak",
+      "sporty",
+      "wanderer",
+      "party lover",
+      "vegan",
+      "non alcoholic",
+      "music lover",
+      "non smoker"
+    ],
+    "highlights": [
+      "college student",
+      "age less than 25",
+      "have 2 wheeler",
+      "vegetarian",
+      "need no furnishing"
+    ],
+    "description": "I am looking for a room with roommate."
+  },
+  {
+    "_id": "667994ff0aa756e3fccea044",
+    "user": "667994ff0aa756e3fcceb044",
+    "listingType": "roommate",
+    "city": "delhi",
+    "location": "Rohini, Delhi",
+    "lookingFor": "female",
+    "occupancy": "dual",
+    "rent": 6000,
+    "preferences": [
+      "night owl",
+      "studious",
+      "fitness freak",
+      "sporty",
+      "wanderer",
+      "party lover",
+      "vegan",
+      "non alcoholic",
+      "music lover",
+      "non smoker"
+    ],
+    "highlights": [
+      "college student",
+      "age less than 25",
+      "have 2 wheeler",
+      "vegetarian",
+      "need no furnishing"
+    ],
+    "description": "I am looking for a room with roommate."
+  },
+  {
+    "_id": "667994ff0aa756e3fccea045",
+    "user": "667994ff0aa756e3fcceb045",
+    "listingType": "roommate",
+    "city": "noida",
+    "location": "Sector 62, Noida",
+    "lookingFor": "male",
+    "occupancy": "dual",
+    "rent": 9000,
+    "preferences": [
+      "early bird",
+      "fitness freak",
+      "sporty",
+      "wanderer",
+      "party lover",
+      "vegan",
+      "non alcoholic",
+      "music lover",
+      "non smoker"
+    ],
+    "highlights": [
+      "working full time",
+      "working night shifts",
+      "age greater than 25",
+      "have 2 wheeler",
+      "have 4 wheeler",
+      "vegetarian"
+    ],
+    "description": "I am looking for a room with roommate."
+  },
+  {
+    "_id": "667994ff0aa756e3fccea046",
+    "user": "667994ff0aa756e3fcceb046",
+    "listingType": "roommate",
+    "city": "noida",
+    "location": "Sector 62, Noida",
+    "lookingFor": "female",
+    "occupancy": "dual",
+    "rent": 9000,
+    "preferences": [
+      "early bird",
+      "fitness freak",
+      "sporty",
+      "wanderer",
+      "party lover",
+      "vegan",
+      "non alcoholic",
+      "music lover",
+      "non smoker"
+    ],
+    "highlights": [
+      "working full time",
+      "working night shifts",
+      "age greater than 25",
+      "have 2 wheeler",
+      "have 4 wheeler",
+      "vegetarian"
+    ],
+    "description": "I am looking for a room with roommate."
+  },
+  {
+    "_id": "667994ff0aa756e3fccea047",
+    "user": "667994ff0aa756e3fcceb047",
+    "listingType": "roommate",
+    "city": "noida",
+    "location": "Sector 62, Noida",
+    "lookingFor": "male",
+    "occupancy": "dual",
+    "rent": 6000,
+    "preferences": [
+      "night owl",
+      "studious",
+      "fitness freak",
+      "sporty",
+      "wanderer",
+      "party lover",
+      "vegan",
+      "non alcoholic",
+      "music lover",
+      "non smoker"
+    ],
+    "highlights": [
+      "college student",
+      "age less than 25",
+      "have 2 wheeler",
+      "vegetarian",
+      "need no furnishing"
+    ],
+    "description": "I am looking for a room with roommate."
+  },
+  {
+    "_id": "667994ff0aa756e3fccea048",
+    "user": "667994ff0aa756e3fcceb048",
+    "listingType": "roommate",
+    "city": "noida",
+    "location": "Sector 62, Noida",
+    "lookingFor": "female",
+    "occupancy": "dual",
+    "rent": 6000,
+    "preferences": [
+      "night owl",
+      "studious",
+      "fitness freak",
+      "sporty",
+      "wanderer",
+      "party lover",
+      "vegan",
+      "non alcoholic",
+      "music lover",
+      "non smoker"
+    ],
+    "highlights": [
+      "college student",
+      "age less than 25",
+      "have 2 wheeler",
+      "vegetarian",
+      "need no furnishing"
+    ],
+    "description": "I am looking for a room with roommate."
+  }
+]

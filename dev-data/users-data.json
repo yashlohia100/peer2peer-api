@@ -1,0 +1,434 @@
+[
+  {
+    "_id": "667994ff0aa756e3fcceb001",
+    "name": "Ayush Kumar",
+    "email": "ayushkumar@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "male",
+    "photo": "user-01.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb002",
+    "name": "Priyanka Sharma",
+    "email": "priyankasharma@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "female",
+    "photo": "user-02.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb003",
+    "name": "Yatin Gill",
+    "email": "yatingill@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "male",
+    "photo": "user-03.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb004",
+    "name": "Vaishnavi Pandey",
+    "email": "vaishnavipandey@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "female",
+    "photo": "user-04.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb005",
+    "name": "Yash Verma",
+    "email": "yashverma@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "male",
+    "photo": "user-05.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb006",
+    "name": "Yashika Chauhan",
+    "email": "yashikachauhan@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "female",
+    "photo": "user-06.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb007",
+    "name": "Himanshu Verma",
+    "email": "himanshuverma@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "male",
+    "photo": "user-07.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb008",
+    "name": "Khushi Pandey",
+    "email": "khushipandey@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "female",
+    "photo": "user-08.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb009",
+    "name": "Aditya Kumar",
+    "email": "adityakumar@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "male",
+    "photo": "user-09.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb010",
+    "name": "Anjali Sharma",
+    "email": "anjalisharma@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "female",
+    "photo": "user-10.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb011",
+    "name": "Arpit Tyagi",
+    "email": "arpittyagi@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "male",
+    "photo": "user-11.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb012",
+    "name": "Bhavya Kumari",
+    "email": "bhavyakumari@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "female",
+    "photo": "user-12.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb013",
+    "name": "Divyansh Kumar",
+    "email": "divyanshkumar@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "male",
+    "photo": "user-13.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb014",
+    "name": "Diksha Gupta",
+    "email": "dikshagupta@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "female",
+    "photo": "user-14.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb015",
+    "name": "Himanshu Kumar",
+    "email": "himanshukumar@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "male",
+    "photo": "user-15.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb016",
+    "name": "Himani Jain",
+    "email": "himanijain@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "female",
+    "photo": "user-16.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb017",
+    "name": "Mayank Sharma",
+    "email": "mayanksharma@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "male",
+    "photo": "user-17.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb018",
+    "name": "Neha Tiwari",
+    "email": "nehatiwari@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "female",
+    "photo": "user-18.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb019",
+    "name": "Pankaj Kumar",
+    "email": "pankajkumar@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "male",
+    "photo": "user-19.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb020",
+    "name": "Palak Goel",
+    "email": "palakgoel@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "female",
+    "photo": "user-20.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb021",
+    "name": "Prince Kumar",
+    "email": "princekumar@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "male",
+    "photo": "user-21.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb022",
+    "name": "Shivani Sharma",
+    "email": "shivanisharma@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "female",
+    "photo": "user-22.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb023",
+    "name": "Shivam Kumar",
+    "email": "shivamkumar@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "male",
+    "photo": "user-23.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb024",
+    "name": "Sneha Chauhan",
+    "email": "snehachauhan@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "female",
+    "photo": "user-24.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb025",
+    "name": "Aksh Rajput",
+    "email": "akshrajput@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "male",
+    "photo": "user-25.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb026",
+    "name": "Akshara Verma",
+    "email": "aksharaverma@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "female",
+    "photo": "user-26.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb027",
+    "name": "Atul Kumar",
+    "email": "atulkumar@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "male",
+    "photo": "user-27.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb028",
+    "name": "Anuskha Sharma",
+    "email": "anuskhasharma@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "female",
+    "photo": "user-28.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb029",
+    "name": "Gagan Verma",
+    "email": "gaganverma@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "male",
+    "photo": "user-29.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb030",
+    "name": "Ishika Verma",
+    "email": "ishikaverma@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "female",
+    "photo": "user-30.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb031",
+    "name": "Nikhil Tyagi",
+    "email": "nikhiltyagi@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "male",
+    "photo": "user-31.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb032",
+    "name": "Meghna Gupta",
+    "email": "meghnagupta@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "female",
+    "photo": "user-32.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb033",
+    "name": "Mohit Kumar",
+    "email": "mohitkumar@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "male",
+    "photo": "user-33.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb034",
+    "name": "Manisha Jain",
+    "email": "manishajain@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "female",
+    "photo": "user-34.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb035",
+    "name": "Pranjal Chauhan",
+    "email": "pranjalchauhan@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "male",
+    "photo": "user-35.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb036",
+    "name": "Prachi Sharma",
+    "email": "prachisharma@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "female",
+    "photo": "user-36.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb037",
+    "name": "Ritik Chaudhary",
+    "email": "ritikchaudhary@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "male",
+    "photo": "user-37.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb038",
+    "name": "Sajal Sharma",
+    "email": "sajalsharma@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "female",
+    "photo": "user-38.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb039",
+    "name": "Sahil Gupta",
+    "email": "sahilgupta@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "male",
+    "photo": "user-39.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb040",
+    "name": "Sara Vashistha",
+    "email": "saravashistha@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "female",
+    "photo": "user-40.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb041",
+    "name": "Shubham Bhardwaj",
+    "email": "shubhambhardwaj@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "male",
+    "photo": "user-41.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb042",
+    "name": "Shambhawi Shukla",
+    "email": "shambhawishukla@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "female",
+    "photo": "user-42.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb043",
+    "name": "Sumit Chauhan",
+    "email": "sumitchauhan@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "male",
+    "photo": "user-43.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb044",
+    "name": "Shruti Bhatnagar",
+    "email": "shrutibhatnagar@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "female",
+    "photo": "user-44.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb045",
+    "name": "Tushar Garg",
+    "email": "tushargarg@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "male",
+    "photo": "user-45.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb046",
+    "name": "Tanu Sharma",
+    "email": "tanusharma@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "female",
+    "photo": "user-46.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb047",
+    "name": "Vansh Chaudhary",
+    "email": "vanshchaudhary@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "male",
+    "photo": "user-47.jpg"
+  },
+  {
+    "_id": "667994ff0aa756e3fcceb048",
+    "name": "Vanshika Sharma",
+    "email": "vanshikasharma@gmail.com",
+    "password": "pass1234",
+    "passwordConfirm": "pass1234",
+    "gender": "female",
+    "photo": "user-48.jpg"
+  }
+]
